@@ -17,7 +17,6 @@ Whether it’s code, leadership, or design, I’m always pushing to level up and
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=seshusai309&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=seshusai309&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seshusai309&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=seshusai309&theme=radical&no-frame=false&no-bg=true&margin-w=4)
