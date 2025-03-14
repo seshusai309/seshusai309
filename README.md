@@ -5,7 +5,6 @@
 
 ## 💡 My Mission
 
-I’m not just preparing for placements —  
 **I’m preparing to lead. To build. To disrupt.**  
 Whether it’s code, leadership, or design, I’m always pushing to level up and turn vision into impact.
 
