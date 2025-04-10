@@ -11,8 +11,8 @@ Whether it’s code, leadership, or design, I’m always pushing to level up and
 ![](https://github-readme-stats.vercel.app/api?username=seshusai309&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/sai-sesha-reddy-124152229/">
-  <img src="https://content.linkedin.com/content/dam/platform/থর-হাওক.png" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/sai-sesha-reddy-124152229/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
 </a>
 
 # 💻 Tech Stack:
