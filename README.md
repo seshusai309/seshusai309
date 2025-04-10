@@ -1,7 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 # 💫 About Me:
-🔭  I’m currently working on something cool 😉<br>🌱 learning DSA(c++), React/Node/Express(Intermediate)<br>💬  Ask me about anything related to Javascript/Python or React/Express<br>👨‍💻  Read more about my projects Down<br>⚡  Fun fact: hits the gym at 5:30 AM, crushes DSA before sunrise, codes for 8+ hours a day 😁<br>
+🔭  I’m currently working on something cool 😉<br>🌱  DSA(c++), React/Node/Express(Intermediate)<br>💬  Ask me about anything related to Javascript/Python or React/Express<br>👨‍💻  Read more about my projects Down<br>⚡  Fun fact: hits the gym at 5:30 AM, crushes DSA before sunrise, codes for 8+ hours a day 😁<br>
 
 ## 💡 My Mission
 
