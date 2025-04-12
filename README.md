@@ -1,29 +1,56 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-# 💫 About Me:
-🔭  I’m currently working on something cool 😉<br>🌱  DSA(c++), React/Node/Express(Intermediate)<br>💬  Ask me about anything related to Javascript/Python or React/Express<br>👨‍💻  Read more about my projects Down<br>⚡  Fun fact: hits the gym at 5:30 AM, crushes DSA before sunrise, codes for 8+ hours a day 😁<br>
+# Sesh 🚀
 
-## 💡 My Mission
+## About Me
 
-**I’m preparing to lead. To build. To disrupt.**  
-Whether it’s code, leadership, or design, I’m always pushing to level up and turn vision into impact.
+*   🔭  Currently building something awesome!
+*   🌱  DSA (C++), React/Node/Express (Intermediate)
+*   💬  Ask me about JS/Python or React/Express
+*   💪  Fun fact: Gym @ 5:30 AM, DSA before sunrise, code all day!
 
-![](https://github-readme-stats.vercel.app/api?username=seshusai309&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+## My Mission
 
-## 🌐 Socials:
-<a href="https://www.linkedin.com/in/sai-sesha-reddy-124152229/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
-</a>
+**Lead. Build. Disrupt.** Leveling up in code, leadership, and design to turn vision into impact.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=seshusai309&theme=dark&hide_border=false)<br/>
+## Tech Stack
 
-## 🏆 GitHub Trophies
+### Languages
+
+*   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+*   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+*   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Full Stack
+
+*   Frontend: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+*   Backend: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+*   Database: ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### AI & Tools (In Progress)
+
+Voice-over, OCR, Chatbots, Razorpay integration.
+
+### UI/UX
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+Black & White themes, gradients, consistent typography.
+
+## Socials
+
+*   [LinkedIn](https://www.linkedin.com/in/sai-sesha-reddy-124152229/)
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=seshusai309&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=seshusai309&theme=dark&hide_border=false)
+
+## Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=seshusai309&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=seshusai309&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=seshusai309&icon=0&color=0)](https://visitcount.itsvg.in)
