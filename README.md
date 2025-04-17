@@ -11,7 +11,7 @@
 
 ## My Mission
 
-**Lead. Build. Disrupt.** Leveling up in code, leadership, and design to turn vision into impact.
+**Lead. Build. Disrupt.** Leveling up in code, leadership, and design to turn vision into impact. <br/>
 ![](https://komarev.com/ghpvc/?username=seshusai309&style=flat-square)
 
 ## Tech Stack
