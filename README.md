@@ -43,9 +43,6 @@ Black & White themes, gradients, consistent typography.
 *   [LinkedIn](https://www.linkedin.com/in/sai-sesha-reddy-124152229/)
 
 ## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=seshusai309&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=seshusai309&theme=dark&hide_border=false)
 
 ## Trophies
